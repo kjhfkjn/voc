@@ -1,0 +1,22 @@
+<annotation>
+    <folder>train</folder>
+    <filename>38_Tennis_Tennis_38_531.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>729</xmin>
+            <ymin>472</ymin>
+            <xmax>794</xmax>
+            <ymax>559</ymax>
+        </bndbox>
+    </object>
+</annotation>

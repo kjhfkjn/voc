@@ -1,0 +1,22 @@
+<annotation>
+    <folder>train</folder>
+    <filename>25_Soldier_Patrol_Soldier_Patrol_25_986.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>399</xmin>
+            <ymin>128</ymin>
+            <xmax>541</xmax>
+            <ymax>296</ymax>
+        </bndbox>
+    </object>
+</annotation>

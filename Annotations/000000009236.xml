@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>000000009236.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>62</xmin>
+            <ymin>331</ymin>
+            <xmax>80</xmax>
+            <ymax>339</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34</xmin>
+            <ymin>322</ymin>
+            <xmax>57</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>
+</annotation>

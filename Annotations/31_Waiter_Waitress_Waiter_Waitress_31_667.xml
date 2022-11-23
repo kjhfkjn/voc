@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>31_Waiter_Waitress_Waiter_Waitress_31_667.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>280</xmin>
+            <ymin>104</ymin>
+            <xmax>351</xmax>
+            <ymax>233</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>704</xmin>
+            <ymin>126</ymin>
+            <xmax>785</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>
+</annotation>

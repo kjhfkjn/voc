@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>19_Couple_Couple_19_832.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>769</xmin>
+            <ymin>157</ymin>
+            <xmax>968</xmax>
+            <ymax>271</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>147</xmin>
+            <ymin>334</ymin>
+            <xmax>271</xmax>
+            <ymax>483</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>17_Ceremony_Ceremony_17_972.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>399</xmin>
+            <ymin>201</ymin>
+            <xmax>525</xmax>
+            <ymax>370</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>487</xmin>
+            <ymin>547</ymin>
+            <xmax>657</xmax>
+            <ymax>785</ymax>
+        </bndbox>
+    </object>
+</annotation>

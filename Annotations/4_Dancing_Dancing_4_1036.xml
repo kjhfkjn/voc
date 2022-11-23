@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>4_Dancing_Dancing_4_1036.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>501</xmin>
+            <ymin>88</ymin>
+            <xmax>593</xmax>
+            <ymax>266</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>636</xmin>
+            <ymin>73</ymin>
+            <xmax>746</xmax>
+            <ymax>271</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+    <folder>train</folder>
+    <filename>pic_058.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>171</xmin>
+            <ymin>335</ymin>
+            <xmax>2208</xmax>
+            <ymax>1528</ymax>
+        </bndbox>
+    </object>
+</annotation>

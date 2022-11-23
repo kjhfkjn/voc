@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train</folder>
+    <filename>1_Handshaking_Handshaking_1_453.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>291</xmin>
+            <ymin>64</ymin>
+            <xmax>383</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>676</xmin>
+            <ymin>201</ymin>
+            <xmax>745</xmax>
+            <ymax>339</ymax>
+        </bndbox>
+    </object>
+</annotation>

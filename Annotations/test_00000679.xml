@@ -1,0 +1,22 @@
+<annotation>
+    <folder>train</folder>
+    <filename>test_00000679.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>433</xmin>
+            <ymin>117</ymin>
+            <xmax>491</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+</annotation>
